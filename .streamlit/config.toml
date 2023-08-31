@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 15
+port = 7860
+enableXsrfProtection = false
+enableCORS = false

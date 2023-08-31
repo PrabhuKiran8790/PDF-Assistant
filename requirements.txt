@@ -1,0 +1,11 @@
+streamlit
+pyrebase4
+requests-toolbelt==0.10.1
+langchain
+openai
+PyPDF2
+faiss-cpu
+urllib3==1.26.6
+python-dotenv
+tiktoken
+psutil
